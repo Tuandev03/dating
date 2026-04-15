@@ -107,7 +107,7 @@ const App = () => {
       {!showCard && !showPlaceSelection && !showDateTimePicker && (
         <div className="absolute flex justify-center items-center w-full">
           <div className="z-40 border bgDiv border-pink-200 w-[400px] h-[200px] bg-white bg-opacity-40 shadow-pink-500 shadow-xl rounded-xl flex flex-col items-center justify-center">
-            <h1 className="text-2xl text-pink-400 font-bold">Dear, Nghi 💌</h1>
+            <h1 className="text-2xl text-pink-400 font-bold">Dear, bà xãaaa 💌</h1>
             <p className="text-lg mt-4 font-semibold text-gray-600">
               Will you go on a date with me?
             </p>
